@@ -1,0 +1,524 @@
+.container{
+	background-color: #f5f7f8;
+	color: white;
+	width: 100%;
+	height: 90%;
+}
+.row{
+	display: flex;
+}
+.image-play img{
+	margin-top: 2vh;
+	margin-left: 2vw;
+	width: 12vw;
+	height: 6vh;
+}
+.Searchbar {
+	width: 22vw;
+	margin-left: 68%;
+	margin-top:-5vh ;
+}
+.Searchbar input{
+	width: 35vw;
+}
+.image img{
+	margin-left: 35.7vw;
+	width: 4vw;
+	height: 4vh;
+	margin-top: -15vh;
+	margin-bottom: 1.5vh;
+}
+.row1{
+	width: 100%;
+	height: 7vh;
+	background-color: white;
+	display: flex;
+	color: black;
+
+}
+.Apps img{
+	margin-left: 2vw;
+	width: 11vw;
+	height: 7vh;
+}
+.icon{
+	margin-left: 16vw;
+	margin-top: -5vh;
+}
+.icon1{
+	margin-left: 24vw;
+	margin-top: -6.5vh;
+}
+.icon2{
+	margin-left: 32vw;
+	margin-top: -6.5vh;
+}
+.icon3{
+	margin-left: 40vw;
+	margin-top: -2.5vh;
+}
+.icon4 img{
+	margin-left: 88vw;
+	width: 4vw;
+	height: 5vh;
+	margin-top: -7vh;
+	margin-bottom: 1vh;
+
+}
+.icon5 img{
+	margin-left: 93vw;
+	width: 4vw;
+	height: 5vh;
+	margin-top: -7vh;
+	margin-bottom: 3.8vh;
+}
+.box{
+	width: 13vw;
+	height: 30vh;
+	background-color: white;
+	color: black;
+}
+.text{
+	margin-left: 3vw;
+}
+.text1{
+	margin-left: 3vw;
+	margin-top: 3vh;
+	color: green;
+}
+.Hr{
+	margin-left: 2vw;
+}
+.text3{
+	margin-top: 3vh;
+	margin-left: 3vw;
+}
+.box-center{
+	color: black;
+	display: flex;
+}
+.head{
+	margin-left: 15vw;
+	margin-top: -33vh;
+}
+.head p{
+	margin-left: 74vw;
+	margin-top: -6.5vh;
+	background-color: green;
+	color: white;
+
+}
+.Apps1{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 15vw;
+	margin-top: -24vh;
+	color: black;
+}
+.Images0 p{
+	margin-left: 1vw;
+
+}
+.Star img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1vh;
+}
+.Apps2{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 29vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images2 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images2 p{
+	margin-left: 1vw;
+}
+.Star1 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1vh;
+}
+.Apps3{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 40vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images3 p{
+	margin-left: 1vw;
+}
+.Images3 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Star2 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1vh;
+}
+.Apps4{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 52.5vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images4 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images4 p{
+	margin-left: 1vw;
+}
+.Star3 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1vh;
+}
+.Apps5{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 65vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images5 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images5 p{
+	margin-left: 1vw;
+}
+.Star4 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1vh;
+}
+.Apps6{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 77vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images6 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images6 p{
+	margin-left: 1vw;
+}
+.Star5 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1vh;
+}
+.Apps7{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 89vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images7 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+
+}
+.Images7 p{
+	margin-left: 1vw;
+}
+.Star6 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1vh;
+}
+.box2{
+	width: 13vw;
+	height: 30vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	color: black;
+	margin-top: -14vh;
+}
+.Text{
+	margin-left: 1vw;
+}
+.Text1{
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+.box-center2{
+	color: black;
+	display: flex;
+}
+.Head1 h1{
+	margin-left: 15vw;
+	margin-top: -10vh;
+}
+.Head1 p{
+	margin-left: 15vw;
+	margin-top: -3vh;
+}
+.see-more p{
+	margin-left: 89vw;
+	background-color: green;
+	margin-top: -9vh;
+	color: white;
+}
+.Apps8{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 15vw;
+	color: black;
+}
+.Images8 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images8 p{
+	margin-left: 1vw;
+}
+.Star7 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+.Apps9{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 27vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images9 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images9 p{
+	margin-left: 1vw;
+}
+.Star8 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+.Apps10{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 39vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images10 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images10 p{
+	margin-left: 1vw;
+}
+.Star9 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+.Apps11{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 51vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images11 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images11 p{
+	margin-left: 1vw;
+}
+.Star10 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+.Apps12{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 63vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images12 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images12 p{
+	margin-left: 1vw;
+}
+.Star11 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+
+.Images13 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Apps13{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 75vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images13 p{
+	margin-left: 1vw;
+}
+.Star12 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1.5vh;
+	margin-bottom: 2vh;
+}
+.Images14 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Apps14{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 87vw;
+	margin-top: -40vh;
+	color: black;
+}
+.Images14 p{
+	margin-left: 1vw;
+}
+.Star13 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -1.5vh;
+	margin-bottom: 2vh;
+}
+.box3-center{
+	color: black;
+	display: flex;
+}
+.head2 h1{
+	margin-left: 15vw;
+}
+.Apps15{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 15vw;
+	color: black;
+	margin-top: 2vh;
+}
+.Images15 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images15 p{
+	margin-left: 1vw;
+}
+.Star14 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+}
+
+.Apps16{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 26vw;
+	color: black;
+	margin-top: -40vh;
+}
+.Images16 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images16 p{
+	margin-left: 1vw;
+}
+.Star15 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-bottom: 2vh;
+	margin-top: -15vh;
+}
+.Apps17{
+	width: 10.4vw;
+	height: 40vh;
+	box-shadow: 3px 4px 10px 10px lightgray;
+	margin-left: 37vw;
+	color: black;
+	margin-top: -40vh;
+}
+.Images17 img{
+	width: 9vw;
+	height: 26vh;
+	margin-left: .5vw;
+}
+.Images17 p{
+	margin-left: 1vw;
+}
+.Star16 img{
+	width: 4vw;
+	height: 2vh;
+	margin-left: 1vw;
+	margin-top: -15vh;
+	margin-bottom: 2vh;
+}
